@@ -1,0 +1,9 @@
+{
+  "markdown": {
+    "emphasisKind": "asterisks",
+    "textWrap": "always"
+  },
+  "plugins": [
+    "https://plugins.dprint.dev/markdown-latest.wasm"
+  ]
+}
